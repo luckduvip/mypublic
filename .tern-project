@@ -6,7 +6,7 @@
 	],
 	"plugins": {
 		"node": {
-			"baseURL":"/User/luckduvip/webapps/node/project/"
+			"baseURL":"./"
 			,"paths":{
 			}
 		}

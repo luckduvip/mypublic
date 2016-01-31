@@ -1,6 +1,6 @@
 {
   "name": "mypublic",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "my first publish",
   "main": "index.js",
   "scripts": {
@@ -21,11 +21,5 @@
   },
   "homepage": "https://github.com/luckduvip/mypublic#readme",
   "dependencies": {
-    "async": "^1.5.2",
-    "body-parser": "^1.14.2",
-    "ejs": "^2.4.1",
-    "express": "^4.13.4",
-    "express-router": "0.0.1",
-    "utility": "^1.6.0"
   }
 }
